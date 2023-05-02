@@ -17,8 +17,9 @@ body{
 }
 
 .text {
-    border: solid grey 3pt;
-    background-color: #afafaf;
+    border: solid white 3pt ;
+    border-radius: 10px;
+    background-color: white;
     padding: 2vw;
     font-size: 2vw;
     min-height: 100%;
@@ -30,5 +31,19 @@ body{
 .car2{
     width:32vw ;
     height: 45vw ;
-    border: solid grey 3pt;
+    border: solid white 3pt;
+    border-radius: 10px;
+}
+
+.card-title{
+    font-size: 1.25vw;
+}
+
+.card-text{
+    font-size: .9vw;
+
+}
+
+.btn{
+    font-size: 1vw;
 }
